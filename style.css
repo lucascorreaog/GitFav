@@ -111,6 +111,7 @@ table {
   border: 2px solid #4a808c;
   border-radius: 1.8rem;
   overflow: hidden;
+  margin-bottom: 3rem;
 }
 
 table * {
